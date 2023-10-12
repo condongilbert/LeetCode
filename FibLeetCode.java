@@ -1,4 +1,4 @@
-public class Main {
+public class FibLeetCode {
     public static long[] generateFibonaccis(int n) {
         long[] fib = new long[n];
         fib[0] = 1;
