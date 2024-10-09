@@ -16,7 +16,7 @@ public class removeDuplicates {
         return i+1;
     }
 	
-	public int removeDuplicates(int[] nums) {
+	public int removeDuplicatesAllowTwo(int[] nums) {
         
 		
 		int i = 0;
