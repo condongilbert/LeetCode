@@ -12,4 +12,4 @@ def coinChange(coins, amount):
     return dp[amount] if dp[amount] != float('inf') else -1
 
 # Example
-print(coinChange([1, 2, 5], 11))  # Output: 3
+print(coinChange([1, 2], 11))  # Output: 3
